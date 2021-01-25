@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  DrawRoute
+
+  Created by Swayam Infotech on 01/10/20.
+  Copyright © 2020 Swayam Infotech. All rights reserved.
+*/
+
+"internet_not_available"                = "Internet unavailable. Please try again later.";
+"ok_text"                               = "OK";
+"setting"                               = "Settings";
+"close"                                 = "Close";
+"source_address"                        = "Source Address";
+"destination_address"                   = "Destination Address";
+"your_location"                         = "Your Location";
+"location_disabled_title"               = "Location services disabled!";
+"location_disabled_message"             = "Location services are disabled for this app, please go to settings and turn on location services";
